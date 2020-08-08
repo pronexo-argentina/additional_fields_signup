@@ -1,4 +1,4 @@
-<img alt="Odoo by pronexo.com" src="https://subefotos.com/ver/?2cefcd01b508a50b48ec5439b85d1550o.png" />
+<img alt="Odoo by pronexo.com" src="https://subefotos.com/2cefcd01b508a50b48ec5439b85d1550o.png" />
 pronexo.com - https://www.pronexo.com
 
 
