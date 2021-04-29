@@ -38,7 +38,7 @@
         * Birth date
     """,
     'sequence': 1,
-    'author': "pronexo.com",
+    'author': "Pronexo",
     'website': 'https://www.pronexo.com',
     'depends': ['auth_signup'],
     'data': [
