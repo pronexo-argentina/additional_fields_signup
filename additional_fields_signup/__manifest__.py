@@ -38,6 +38,9 @@
         * Birth date
     """,
     'sequence': 1,
+    'license": 'OPL-1',
+    'price": 35.0,
+    'currency': 'USD',
     'author': "Pronexo",
     'website': 'https://www.pronexo.com',
     'depends': ['auth_signup'],
